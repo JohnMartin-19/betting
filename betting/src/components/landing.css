@@ -24,7 +24,7 @@
     line-height: 45px;
     font-size: 20px;
     background: #FF204E;
-  }
+}
   
 .column1 {
     flex: 50%;
@@ -54,12 +54,20 @@
     align-items: right;
     min-height: 100vh;
 }
-.btn{
+.btn-btn{
     color: #FF204E;
     background-color: white;
     border-radius: 20px;
     size: 60px;
 }
+.btn{
+    color: white;
+    background-color: #FF204E;
+    border-radius: 20px;
+    size: 60px;
+}
+
+
 .column4 {
     flex: 50%;
     font-size: 30px;

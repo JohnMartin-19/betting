@@ -15,6 +15,16 @@
   font-weight: 600;
   cursor: pointer;
 }
+.btn-btn{
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: #294b29;
+  color: #fff;
+  border: 1px solid #fff;
+  font-weight: 600;
+  cursor: pointer;
+}
 
 .btn:hover{
   background: transparent;
